@@ -2,22 +2,11 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 For this project we created a random password generator to help with stronger passwords. There are many passwords out there that are easy to hack and we wanted to help with this issue. In this project we learned multiple javascript terms like strings, arrays, etc. 
 
 ## Usage
 
-Click "Generate Password" for a random password to be generated. You will be prompted with questions. Please answer these questions as it will help with a stronger password. 
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Click "Generate Password" for a random password to be generated. You will be prompted with questions. Please answer these questions as it will help with a stronger password.
 
     ```md
     ![alt text](assets/images/password.png)
